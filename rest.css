@@ -1,0 +1,24 @@
+#name-of-restaurant{text-align: center;
+  color: grey;
+  font-size: auto;
+  font-family: Verdana Sans-Serif;
+  background-color: white;
+  border-radius: 500px;
+}
+body{
+  background-image: url('background.jpg');
+}
+#welcome-message{color:white;
+  font-weight: bold;
+  font-size: 17px;
+  background-color:#facfba;
+  color: rgba(224,57,16,1.5);
+  border-radius: 400px;
+  font-family: 'Impact", Sans-Serif;
+}
+#content{
+text-align: center;
+color: white;
+}
+
+
